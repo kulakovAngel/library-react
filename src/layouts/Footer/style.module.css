@@ -1,0 +1,16 @@
+.documentFooter {
+    border-top: 1px solid;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.section {
+    flex: 0 0 33.33%;
+    padding: 20px;
+}
+
+.heading {
+    color: #ebeff2;
+    border-bottom: 1px solid;
+}

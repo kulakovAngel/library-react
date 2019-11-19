@@ -1,0 +1,25 @@
+.formContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.textInput {
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px 10px 0 10px;
+    border-bottom: 1px solid;
+}
+
+.button {
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+.message {
+    padding: 0 10px;
+    margin: 0 10px;
+    color: darkred;
+}

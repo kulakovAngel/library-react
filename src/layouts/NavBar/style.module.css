@@ -1,0 +1,12 @@
+.documentNav {
+    background: #273238;
+    position: fixed;
+    height: 100vh;
+    width: 20vw;
+    z-index: 1;
+    box-shadow: 0 0 8px;
+}
+
+.documentNav a {
+    text-decoration: none;
+}
